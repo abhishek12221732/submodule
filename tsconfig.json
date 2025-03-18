@@ -119,7 +119,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/LeadForm.js"  ],
   "exclude": [
     "node_modules"
   ]
